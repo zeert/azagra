@@ -1,0 +1,27 @@
+[03-Dec-2011 15:09:05] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oazagra/public_html/index.php:14) in /home/oazagra/public_html/index.php on line 15
+[03-Dec-2011 15:10:54] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oazagra/public_html/index.php:14) in /home/oazagra/public_html/index.php on line 15
+[03-Dec-2011 15:11:27] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oazagra/public_html/index.php:14) in /home/oazagra/public_html/index.php on line 15
+[03-Dec-2011 15:13:12] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oazagra/public_html/index.php:14) in /home/oazagra/public_html/index.php on line 15
+[03-Dec-2011 15:13:54] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oazagra/public_html/index.php:14) in /home/oazagra/public_html/index.php on line 15
+[03-Dec-2011 15:15:21] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oazagra/public_html/index.php:14) in /home/oazagra/public_html/index.php on line 15
+[03-Dec-2011 15:15:27] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oazagra/public_html/index.php:14) in /home/oazagra/public_html/index.php on line 15
+[03-Dec-2011 15:23:56] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oazagra/public_html/index.php:14) in /home/oazagra/public_html/index.php on line 15
+[03-Dec-2011 15:25:25] PHP Parse error:  syntax error, unexpected $end in /home/oazagra/public_html/index.php on line 409
+[03-Dec-2011 15:25:28] PHP Parse error:  syntax error, unexpected $end in /home/oazagra/public_html/index.php on line 409
+[03-Dec-2011 15:25:31] PHP Parse error:  syntax error, unexpected $end in /home/oazagra/public_html/index.php on line 409
+[03-Dec-2011 15:25:40] PHP Parse error:  syntax error, unexpected $end in /home/oazagra/public_html/index.php on line 409
+[03-Dec-2011 15:25:41] PHP Parse error:  syntax error, unexpected $end in /home/oazagra/public_html/index.php on line 409
+[03-Dec-2011 15:25:43] PHP Parse error:  syntax error, unexpected $end in /home/oazagra/public_html/index.php on line 409
+[03-Dec-2011 15:25:53] PHP Parse error:  syntax error, unexpected $end in /home/oazagra/public_html/index.php on line 409
+[03-Dec-2011 15:26:11] PHP Parse error:  syntax error, unexpected $end in /home/oazagra/public_html/index.php on line 409
+[03-Dec-2011 15:29:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oazagra/public_html/index.php:14) in /home/oazagra/public_html/index.php on line 15
+[03-Dec-2011 15:34:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oazagra/public_html/index.php:14) in /home/oazagra/public_html/index.php on line 15
+[03-Dec-2011 15:44:33] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oazagra/public_html/index.php:14) in /home/oazagra/public_html/index.php on line 15
+[03-Dec-2011 16:04:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oazagra/public_html/index.php:14) in /home/oazagra/public_html/index.php on line 15
+[10-Dec-2011 09:44:22] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oazagra/public_html/index.php:14) in /home/oazagra/public_html/index.php on line 15
+[21-Dec-2011 15:11:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oazagra/public_html/index.php:14) in /home/oazagra/public_html/index.php on line 15
+[28-Mar-2012 16:12:13] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oazagra/public_html/index.php:14) in /home/oazagra/public_html/index.php on line 15
+[17-Apr-2012 20:34:21] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oazagra/public_html/index.php:14) in /home/oazagra/public_html/index.php on line 15
+[02-May-2012 14:05:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oazagra/public_html/index.php:14) in /home/oazagra/public_html/index.php on line 15
+[23-May-2012 13:48:41] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oazagra/public_html/index.php:14) in /home/oazagra/public_html/index.php on line 15
+[25-Jun-2012 09:58:03] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oazagra/public_html/index.php:14) in /home/oazagra/public_html/index.php on line 15

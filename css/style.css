@@ -1,0 +1,172 @@
+img {border: none;}
+
+a {color: silver;}
+
+#colectores:hover{color:#B02B2C}
+
+.cc_menu{
+	width:700px; /*140px * 5*/
+	height:600px;
+	position:relative;
+	font-size:14px;
+	text-transform:uppercase;
+	color:#fff;
+}
+
+.cc_item{
+	text-align:center;
+	width:140px;
+	height:600px;
+	float:left;
+	border-bottom:1px solid #000;
+/*	background:#444 url(../images/bg.png) repeat top left*/;
+	position:relative;
+	-moz-box-shadow:3px -3px 10px #000;
+	-webkit-box-shadow:3px -3px 10px #000;
+	box-shadow:3px -3px 10px #000;
+}
+
+#nosotros {
+background-color: #8EA106;
+
+}
+
+
+#sistemas {
+background-color: #FF9000;
+}
+
+#equipos {
+background-color: #DB5800;
+}
+
+#cobertura {
+background-color: #F1D865;
+}
+
+#contacto {
+background-color: #B02B2C;
+}
+
+span.cc_title{
+	color:#fff;
+	font-size:16px;
+	top:200px;
+	left:5px;
+	position:absolute;
+	padding:3px 0px;
+	background:#111;
+	width:130px;
+	display:block;
+	z-index:11;
+	-moz-box-shadow:1px 1px 4px #000;
+	-webkit-box-shadow:1px 1px 4px #000;
+	box-shadow:1px 1px 4px #000;
+}
+.cc_submenu ul{
+	list-style:none;
+	width:140px;
+	margin:0;
+	padding:0;
+	height:0px; /*increase to 200px to slide up*/
+	overflow:hidden;
+	text-align:left;
+	background:#000;
+	position:absolute;
+	left:0px;
+	bottom:0px;
+	opacity:0.7;
+	z-index:13;
+}
+.cc_submenu ul li{
+	color:#ddd;
+	cursor:pointer;
+	padding:10px;
+}
+.cc_item img{
+	position:absolute;
+	width:140px;
+	height:600px;
+	top:-600px;
+	left:0px;
+}
+.cc_content{
+	width:600px;
+	height:600px;
+	border-bottom:1px solid #000;
+	position:absolute;
+	left:-700px;
+	background:#444 url(../images/bg.png) repeat top left;
+	overflow:hidden;
+	-moz-box-shadow:4px 0 7px #000;
+	-webkit-box-shadow:4px 0 7px #000;
+	box-shadow:4px 0 7px #000;
+}
+.cc_content div{
+	display:none;
+	margin:20px;
+}
+.cc_content p{
+	background:#000;
+	padding:20px;
+	opacity:0.7;
+}
+span.cc_back{
+	position:absolute;
+	bottom:10px;
+	left:10px;
+	cursor:pointer;
+	color:#ddd;
+}
+
+.reference {
+position: relative;
+left: 10px;
+width: 100%;
+}
+
+.left {
+position: absolute;
+left: 0%;
+}
+
+.right {
+position: absolute;
+left: 91%;
+}
+
+.center {
+position: absolute;
+left: 45%;
+}
+
+.marco {border: 6px solid #fff;}
+
+#lightbox{	position: absolute;	left: 0; width: 100%; z-index: 100; text-align: center; line-height: 0;}
+#lightbox img{ width: auto; height: auto;}
+#lightbox a img{ border: none; }
+
+#outerImageContainer{ position: relative; background-color: #fff; width: 250px; height: 250px; margin: 0 auto; }
+#imageContainer{ padding: 10px; }
+
+#loading{ position: absolute; top: 40%; left: 0%; height: 25%; width: 100%; text-align: center; line-height: 0; }
+#hoverNav{ position: absolute; top: 0; left: 0; height: 100%; width: 100%; z-index: 10; }
+#imageContainer>#hoverNav{ left: 0;}
+#hoverNav a{ outline: none;}
+
+#prevLink, #nextLink{ width: 49%; height: 100%; background-image: url(data:image/gif;base64,AAAA); /* Trick IE into showing hover */ display: block; }
+#prevLink { left: 0; float: left;}
+#nextLink { right: 0; float: right;}
+#prevLink:hover, #prevLink:visited:hover { background: url(../images/prevlabel.gif) left 15% no-repeat; }
+#nextLink:hover, #nextLink:visited:hover { background: url(../images/nextlabel.gif) right 15% no-repeat; }
+
+#imageDataContainer{ font: 10px Verdana, Helvetica, sans-serif; background-color: #fff; margin: 0 auto; line-height: 1.4em; overflow: auto; width: 100%	; }
+
+#imageData{	padding:0 10px; color: #666; }
+#imageData #imageDetails{ width: 70%; float: left; text-align: left; }	
+#imageData #caption{ font-weight: bold;	}
+#imageData #numberDisplay{ display: block; clear: left; padding-bottom: 1.0em;	}			
+#imageData #bottomNavClose{ width: 66px; float: right;  padding-bottom: 0.7em; outline: none;}	 	
+
+#overlay{ position: absolute; top: 0; left: 0; z-index: 90; width: 100%; height: 500px; background-color: #000; }
+
